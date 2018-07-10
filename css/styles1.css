@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+div {
+    background-color: teal;
+    width: 100px;
+    height: 400px;
+    margin: 40px;
+    padding: 20px;
+}
